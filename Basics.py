@@ -49,7 +49,7 @@ print(onearr)
 
 emparr=np.empty(5)              #[ 1.    2.75  6.   10.75 17.  ]
 print(emparr)                   #random one time assignment
-
+q
 #4. np.arange() : create an array with a range of elements:
 
 arngarr=np.arange(7)            #[0 1 2 3 4 5 6]
